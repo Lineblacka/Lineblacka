@@ -6,7 +6,7 @@ I'm an **ethical hacker** and **penetration tester** with a strong focus on **we
 
 ## 🔐 Areas of Expertise
 
-- 🔎 **Web Application Security** (OWASP Top 10, SSRF, RCE, IDOR, etc.)
+- 🔎 **Web Application Security** 
 - 💣 **Offensive Security Research** (exploit development, vulnerability discovery)
 - 🧠 **CTFs** (Reverse Engineering, Pwn, Crypto, Web)
 - 📡 **Network and Infrastructure Testing**
