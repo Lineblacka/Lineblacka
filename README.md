@@ -29,7 +29,7 @@ Here you’ll find:
 ## 📈 CTF Involvement
 
 - Active member of [Perperikon](https://ctftime.org/team/194263), a competitive CTF team.
-- Regular participant in platforms like **HackTheBox**, **TryHackMe**, **CTFtime**, and more.
+- Regular participant in platforms like **HackTheBox**, **CTFtime**, and more.
 - Areas of focus: `Web`, `Forensics`, `OSINT`, `Cryptography`
 
 ## 📫 Contact
